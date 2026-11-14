@@ -120,7 +120,7 @@ const descricoesPT = {
   "jiren": "Poderoso lutador do Universo 11 e um dos oponentes mais temidos do torneio.",
   "toppo": "Líder das Tropas do Orgulho e candidato a Deus da Destruição.",
   "dyspo": "Velocista das Tropas do Orgulho do Universo 11.",
-  "marcarita": "Anjo que guia o Universo 11 e serve como assistente de Vermoud.",
+  "marcarita": "Anjo que guia o Universo 11 e serve como assistente de Belmod.",
   "vermoudh": "Deus da Destruição do Universo 11.",
   "grand priest": "Supervisor do torneio e pai dos anjos. Ministro-chefe dos Omni-Reis.",
   "kaio del norte (kaito)": "Divindade responsável por administrar as galáxias do Norte do Universo 7.",
